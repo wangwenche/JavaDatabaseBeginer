@@ -1,0 +1,5 @@
+{
+	"db_url": "jdbc:mysql://localhost:3306/BookLibrary",
+	"db_username": "root",
+	"db_password": "123456"
+} 
